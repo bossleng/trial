@@ -1,5 +1,5 @@
 # Github Trial
 
-Github is easy to use
+Github is nice.
 
 I like it!
